@@ -234,7 +234,7 @@ For protected endpoints, include the JWT token in the request's **Authorization*
 
 B.Tech in Computer Science and Engineering
 
-GitHub: [Add your GitHub profile URL](https://github.com/)
+GitHub: [https://github.com/arkapravade242]
 
 ## 📄 License
 
